@@ -1,0 +1,5 @@
+# 忽略 Obsidian 配置和本地缓存（黄总本地生成）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/obsidian-git/data.json
+.DS_Store
